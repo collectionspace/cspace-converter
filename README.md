@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.com/collectionspace/cspace-converter.svg?branch=master)](https://travis-ci.com/collectionspace/cspace-converter) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
+**This project is no longer maintained and has been superceded by the [CollectionSpace CSV Importer](https://github.com/collectionspace/collectionspace-csv-importer).**
+
 Migrate data to CollectionSpace.
 
 ## Getting Started
